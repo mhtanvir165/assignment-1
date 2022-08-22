@@ -14,7 +14,7 @@ body{
     
 }
 .button{
-  background-image: linear-gradient(tomato, orange);
+  background-image: linear-gradient(tomato, red);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -22,7 +22,7 @@ body{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin-left: 200px;
+  margin-left: 43%;
   border-radius: 5px;
 }
 
