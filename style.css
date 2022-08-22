@@ -41,13 +41,10 @@ body{
     text-align: center;
 }
 .donate-amount{
-    /* box-sizing: content-box;   */
     width: 135px;
     height: 100px;
     margin: 20px;
     padding-top: 70px;
-    /* padding: 40px 20px; */
-    /* border: 2px solid lightgray ; */
     background-color: lightgray;
     color: gray;
     text-align: center;
