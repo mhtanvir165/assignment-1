@@ -131,6 +131,13 @@ body{
 .corporate-icon-separate{
     margin: 20px;
 }
+.btn-about{
+    background-image: linear-gradient(blue, red);
+    color: white;
+    padding: 20px 40px;
+    margin: 5%;
+    font-size: 20px;
+}
 
 .update-heading{
     text-align: center;
