@@ -111,6 +111,27 @@ body{
     
 }
 
+.corporate{
+    text-align: center;
+    margin: 10%;
+}
+.corporate-underline{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.corporate-icons{
+    width: 20%;
+    height: 80px;
+    display: flex;
+    margin-left: 15%;
+    
+}
+
+.corporate-icon-separate{
+    margin: 20px;
+}
+
 .update-heading{
     text-align: center;
 }
