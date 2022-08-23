@@ -67,7 +67,7 @@ body{
 }
 .amount-all{
     display: flex;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 10%;
     
     
@@ -110,6 +110,34 @@ body{
     background-color: rgb(255, 226, 230);
     
 }
+
+.update-heading{
+    text-align: center;
+}
+.update{
+    width: 60%px;
+    background-color: lightgoldenrodyellow;
+    margin: 20px 15%;
+    padding: 100px;
+}
+.email{
+    padding: 15px 30px;
+    font-size: 20px;
+    
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: 2px;
+    padding: 17px 30px;
+    font-size: 20px;
+    
+}
+
+
+
+
+
 
 
 
