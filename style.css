@@ -31,7 +31,7 @@ body{
   display: inline-block;
   font-size: 16px;
   margin-left: 43%;
-  margin-bottom: 10%;
+  margin-bottom: 50px;
   border-radius: 5px;
 }
 
@@ -70,7 +70,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     
-    /* margin: 50px 250px; */
+    
 }
 .amount-line{
     margin-left: 20%;
@@ -88,14 +88,25 @@ body{
     
 }
 
-.plan-amount{
+#plan-education{
     width: 25%;
-    padding: 100px;
+    padding: 30px;
     margin: 10px;
-    background-color: lightcyan;
-    text-align: center;
-}
-.amount{
-    margin: 10px 100px;
+    background-color: lightyellow;
 }
 
+
+#plan-food{
+    width: 25%;
+    padding: 30px;
+    margin: 10px;
+    background-color: lightcyan;
+    
+}
+#plan-shelter{
+    width: 25%;
+    padding: 30px;
+    margin: 10px;
+    background-color: rgb(255, 226, 230);
+    
+}
