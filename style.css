@@ -13,6 +13,14 @@ body{
     font-size: 50px;
     
 }
+
+.top-text{
+    color: white;
+    margin: auto;
+    width: 70%;
+    
+}
+
 .button{
   background-image: linear-gradient(tomato, red);
   border: none;
@@ -23,18 +31,15 @@ body{
   display: inline-block;
   font-size: 16px;
   margin-left: 43%;
+  margin-bottom: 10%;
   border-radius: 5px;
 }
 
-.top-text{
-    color: white;
-    margin: auto;
-    width: 70%;
-    
-}
+
 .amount-heading{
     font-size: 30px;
     text-align: center;
+    
 }
 .amount-paragraph{
     color: gray;
@@ -44,18 +49,17 @@ body{
     width: 135px;
     height: 100px;
     margin: 20px;
-    padding-top: 70px;
     background-color: lightgray;
     color: gray;
     text-align: center;
     
+    
+    
 }
 #selected-amount{
-    
     width: 135px;
     height: 100px;
     margin: 20px;
-    padding-top: 70px;
     border: 2px solid red;
     background-color: lightpink;
     color: red;
@@ -63,9 +67,37 @@ body{
 }
 .amount-all{
     display: flex;
-    margin-left: 200px;
+    margin-left: 10%;
+    
+    /* margin: 50px 250px; */
 }
 .amount-line{
     margin-left: 20%;
     margin-right: 20%;
+}
+.plan-paragraph{
+    margin: auto;
+    width: 50%;
+}
+
+.plan-all{
+    display: flex;
+    
+}
+
+.plan-amount{
+    width: 30%;
+    margin: 5%;
+    padding: 40px;
+    
+    background-color: gray;
+    box-shadow: 10px 10px 40px white;
+    text-align: center;
+}
+.amount{
+    margin: 10px 100px;
+}
+
+.taka{
+    padding-top: 15px;
 }
